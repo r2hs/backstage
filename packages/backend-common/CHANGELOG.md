@@ -1,5 +1,13 @@
 # @backstage/backend-common
 
+## 0.5.3
+
+### Patch Changes
+
+- 82b2c11b6: Set explicit content-type in error handler responses.
+- 965e200c6: Slight refactoring in support of a future search implementation in `UrlReader`. Mostly moving code around.
+- 5a5163519: Implement `UrlReader.search` which implements glob matching.
+
 ## 0.5.2
 
 ### Patch Changes

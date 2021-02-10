@@ -1,5 +1,13 @@
 # @backstage/plugin-lighthouse
 
+## 0.2.10
+
+### Patch Changes
+
+- f5e564cd6: Improve display of error messages
+- Updated dependencies [b51ee6ece]
+  - @backstage/core@0.6.1
+
 ## 0.2.9
 
 ### Patch Changes

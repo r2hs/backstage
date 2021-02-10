@@ -1,5 +1,13 @@
 # @backstage/plugin-api-docs
 
+## 0.4.5
+
+### Patch Changes
+
+- f5e564cd6: Improve display of error messages
+- Updated dependencies [b51ee6ece]
+  - @backstage/core@0.6.1
+
 ## 0.4.4
 
 ### Patch Changes

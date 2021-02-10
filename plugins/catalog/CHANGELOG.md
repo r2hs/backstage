@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog
 
+## 0.3.1
+
+### Patch Changes
+
+- f5e564cd6: Improve display of error messages
+- 9230d07e7: Fix whitespace around variable in unregister error dialog box
+- Updated dependencies [b51ee6ece]
+  - @backstage/core@0.6.1
+
 ## 0.3.0
 
 ### Minor Changes
